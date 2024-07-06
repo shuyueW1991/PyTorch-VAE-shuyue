@@ -14,6 +14,9 @@
 
 </p>
 
+**Update 06/07/2024:** Forked from original repo author, beginning to add a genreral understanding of VAE as well as quasi line-wise explanation on the code.
+
+
 **Update 22/12/2021:** Added support for PyTorch Lightning 1.5.6 version and cleaned up the code.
 
 A collection of Variational AutoEncoders (VAEs) implemented in pytorch with focus on reproducibility. The aim of this project is to provide
